@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Ionic Framework, Rest-API**
 
-- 👨‍💻 All of my projects are available at [https://zaidcaidi.herokuapp.com/]
+- 👨‍💻 All of my projects are available at https://zaidcaidi.herokuapp.com/
 
 - 💬 Ask me about **react.JS, node.JS, express.JS, next.JS, three.JS, PHP, Java EE**
 
 - 📫 How to reach me **careza.wing@gmail.com**
 
-- 📄 Know about my experiences [https://zaidcaidi.herokuapp.com/]
+- 📄 Know about my experiences https://zaidcaidi.herokuapp.com/
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
