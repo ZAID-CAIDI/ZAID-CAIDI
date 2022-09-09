@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **careza.wing@gmail.com**
 
-- 📄 Know about my experiences [https://dev-zaidcaidi.vercel.app/](https://dev-zaidcaidi.vercel.app/)
+- 📄 Know about my experiences [https://dev-zaidcaidi.vercel.app/](https://zaidcaidi.herokuapp.com/)
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
